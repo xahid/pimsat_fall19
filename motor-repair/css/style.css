@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img, embed, video, iframe{
+
+	max-width: 100%
+}
+
+.primary-bg{
+	background-color: #2a2a72;
+}
+.secondary-bg{
+	background-color: #ffaa02;
+}
+.primary-color{
+	color: #2a2a72;
+}
+.secondary-color{
+	color: #ffaa02;
+}
+.top-header{
+	background-color: #05060a;
+	color: #fff;
+}
+
+.nav-item a{
+	color: #fff !important;
+}
+.nav-item a:hover{
+	color: #ffaa02 !important;
+}
+.logo{
+	background-color: #fff;
+}
+
