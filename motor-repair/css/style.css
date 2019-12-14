@@ -34,3 +34,19 @@ img, embed, video, iframe{
 	background-color: #fff;
 }
 
+.services{
+	background-color: #fbf5f3;
+}
+.testimonials{
+	background: url('../img/parallax.png') no-repeat fixed center;
+	background-size: cover;
+	height: 500px;
+	padding-top: 200px;
+
+}
+
+.footer{
+	background-color: #050609;
+	padding-top: 15px;
+	color: #fff;
+}
